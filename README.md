@@ -1,4 +1,4 @@
-#problem rJava library not found on classpath
+#problem JRI library not found on classpath - or sig-fault
 
 rJava seems to be not found by the JVM even though it is in the dependencies.
 What is wrong with the setup?
